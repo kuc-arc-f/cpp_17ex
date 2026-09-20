@@ -58,3 +58,8 @@ select:temp:SELECT id , title FROM temp ORDER BY id DESC LIMIT 3;
 select:temp:SELECT id , title FROM temp WHERE id = 12295;
 ```
 ***
+### blog
+
+https://zenn.dev/link/comments/2f995d9bfb7de7
+
+
