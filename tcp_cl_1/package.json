@@ -1,0 +1,27 @@
+{
+  "name": "tui_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "ink": "^7.1.0",
+    "ink-text-input": "^6.0.0",
+    "koffi": "^3.1.0",
+    "prop-types": "^15.8.1",
+    "react": "^19.2.7",
+    "tsx": "^4.23.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "typescript": "^6.0.3"
+  }
+}
