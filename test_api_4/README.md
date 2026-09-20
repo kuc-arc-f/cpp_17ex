@@ -65,3 +65,8 @@ node test2.js
 ```
 
 ***
+### blog
+
+https://zenn.dev/link/comments/9b4fcf5461c12d
+
+***
