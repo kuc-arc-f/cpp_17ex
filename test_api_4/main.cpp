@@ -56,7 +56,7 @@ int main() {
             std::cout << json_str << std::endl;
 
             TcpWrap tLib("");
-            std::string resp = tLib.send_message(json_str);
+            std::string resp = tLib.update_message(json_str);
 
             res.status = 201;
             res.set_content(resp, "application/json");
